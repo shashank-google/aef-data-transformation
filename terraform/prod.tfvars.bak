@@ -1,4 +1,4 @@
-project = "pso-training-wa-may2025"
+project = "<PROJECT_ID>"
 region  = "us-central1"
 domain  = "example"
 environment="dev"
